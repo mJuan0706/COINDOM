@@ -7,7 +7,7 @@
 El sitio web está conectado a la API de Coingecko, que es una fuente popular de datos para información sobre criptomonedas. Coingecko proporciona datos sobre miles de criptomonedas, incluido su precio actual, datos de precios históricos, volumen de negociación, capitalización de mercado y otras métricas importantes. Mediante el uso de esta API, el sitio web puede proporcionar a los usuarios información en tiempo real sobre los últimos precios de las criptomonedas y las tendencias del mercado.
 </p>
 
-👉 Live Demo: <a href=''>Coindom Demo</a>
+👉 Live Demo: <a href='https://coindom-sooty.vercel.app/'>Coindom Demo</a>
 
 <h3>construido con:</h3>
 
